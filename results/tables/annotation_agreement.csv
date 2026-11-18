@@ -1,0 +1,6 @@
+author_cell_type,B cells,CD14+ Monocytes,CD4 T cells,CD8 T cells,FCGR3A+ Monocytes
+B cells,285,0,13,0,0
+CD4 T cells,1,0,342,57,0
+CD8 T cells,0,0,12,197,0
+CD14+ Monocytes,1,397,0,0,2
+FCGR3A+ Monocytes,3,51,2,1,192
